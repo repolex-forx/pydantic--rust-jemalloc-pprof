@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pydantic/rust-jemalloc-pprof/commit/627104aa72ee2e0ca260db928154df1a46ee29ee",
       "git:hexsha": "627104aa72ee2e0ca260db928154df1a46ee29ee",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
